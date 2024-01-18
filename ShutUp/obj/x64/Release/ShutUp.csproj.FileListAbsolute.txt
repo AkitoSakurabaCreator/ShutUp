@@ -1,0 +1,11 @@
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\bin\x64\Release\ShutUp.exe.config
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\bin\x64\Release\ShutUp.exe
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\bin\x64\Release\ShutUp.pdb
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.csproj.AssemblyReference.cache
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.Form1.resources
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.Properties.Resources.resources
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.csproj.GenerateResource.cache
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.csproj.CoreCompileInputs.cache
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.exe
+C:\Users\muramoto\Desktop\ShutUp\ShutUp\obj\x64\Release\ShutUp.pdb
